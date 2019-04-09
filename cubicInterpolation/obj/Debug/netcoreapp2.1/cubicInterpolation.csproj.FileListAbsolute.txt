@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\bin\Debug\netcoreapp2.1\cubicInterpolation.deps.json
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\bin\Debug\netcoreapp2.1\cubicInterpolation.runtimeconfig.json
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\bin\Debug\netcoreapp2.1\cubicInterpolation.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\bin\Debug\netcoreapp2.1\cubicInterpolation.dll
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\bin\Debug\netcoreapp2.1\cubicInterpolation.pdb
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\obj\Debug\netcoreapp2.1\cubicInterpolation.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\obj\Debug\netcoreapp2.1\cubicInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\obj\Debug\netcoreapp2.1\cubicInterpolation.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\obj\Debug\netcoreapp2.1\cubicInterpolation.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\obj\Debug\netcoreapp2.1\cubicInterpolation.dll
+C:\Users\Administrator\source\repos\cubicInterpolation\cubicInterpolation\obj\Debug\netcoreapp2.1\cubicInterpolation.pdb
